@@ -17,12 +17,10 @@ public class JavaApplication3 {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        System.out.println(addition(1,2));
-    }
-    public static int addition(int i, int j){
-        int total = 0;
-        total = i + j;
-        return total;
+        System.out.println("agile99");
+        System.out.println("123");
+        System.out.println("456");
+        //hi
     }
     
 }
