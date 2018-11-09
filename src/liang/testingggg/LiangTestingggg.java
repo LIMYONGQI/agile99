@@ -18,7 +18,6 @@ public class LiangTestingggg {
         // TODO code application logic here
         System.out.println("halo");
         System.out.println("haloo");
-        System.out.println("halooo");
     }
     
 }
