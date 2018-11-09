@@ -19,7 +19,6 @@ public class LiangTestingggg {
         System.out.println("halo");
         System.out.println("haloo");
         System.out.println("halooo");
-        System.out.println("haloooo");
     }
     
 }
